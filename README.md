@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on a fantasy football analytics project
 - 📫 How to reach me: levon.fischer@gmail.com
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 [![wakatime](https://wakatime.com/badge/user/86bbc7e8-941e-4fba-bbe1-33e1fa89ebe6.svg)](https://wakatime.com/@86bbc7e8-941e-4fba-bbe1-33e1fa89ebe6)
 <!---
 levon-fischer/levon-fischer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
