@@ -7,6 +7,11 @@
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  10,848 Karma Points           
+🌸  Completed 1 tasks today           
+🗓  Completed 13 tasks this week           
+✅  Completed 999 tasks so far           
+⏳  Longest streak is 9 days
 <!-- TODO-IST:END -->
 
 [![wakatime](https://wakatime.com/badge/user/86bbc7e8-941e-4fba-bbe1-33e1fa89ebe6.svg)](https://wakatime.com/@86bbc7e8-941e-4fba-bbe1-33e1fa89ebe6)
