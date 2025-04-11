@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @levon-fischer
-- 👀 I’m interested in data analytics, machine learning, fantasy football, and woodworking
-- 🌱 I am studying for my BS in Computer Science with a minor in Data Science
-- 💞️ I’m looking to collaborate on a fantasy football analytics project
-- 📫 How to reach me: levon.fischer@gmail.com
+## 👋 Hey there, I’m Levon
 
+🎯 Tactical Technologist | 🧠 Data-Driven Builder | 🛠️ Smart Home Hacker
 
-<!---
-levon-fischer/levon-fischer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a U.S. Air Force veteran turned Computer Science student with a minor in Data Science, passionate about solving real-world problems with code. I specialize in Python, Java, SQL, and automation, and I love building tools that make life smarter, faster, and more fun—whether it’s a Flask app for fantasy football, a quantified self dashboard, or a machine learning pipeline for intelligence analysis.
+
+🧰 Tools I live in: PyCharm • CLion • PostgreSQL • Streamlit • Flask • Docker • ArcGIS • Home Assistant  
+🎙️ Fun fact: I co-host a podcast as a fantasy football beat reporter alter ego.
+
+🚀 Let’s build something useful, automated, or hilarious.
